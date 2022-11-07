@@ -2,7 +2,7 @@
 
 **`Computer Sciences @ UW-Madison (Graduating: December 2024)`**
 
-I'm an undergraduate student at the University of Wisconsin-Madison pursuing Computer Sciences, B.S. in the College of Letters and Science. I have coded with a variety of programming languages, and I am incredibly passionate about computer science. 
+I'm an undergraduate student at the University of Wisconsin-Madison pursuing Computer Sciences, B.S. in the College of Letters and Science. I have experience in coding with a variety of programming languages, data structures, object oriented programming, and I am incredibly passionate about computer science. 
 
 - 🔭 I’m currently working on **Red-Black Tree Movie Finder Project**
 
