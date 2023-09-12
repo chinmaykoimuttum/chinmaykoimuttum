@@ -8,7 +8,7 @@ I'm an undergraduate student at the University of Wisconsin-Madison pursuing Com
 
 - 🌱 I’m currently learning **Python and Pine Script**
 
-- 📫 How to reach me **chinmayliberty@gmail.com**
+- 📫 How to reach me **ckoimuttum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
